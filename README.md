@@ -1,0 +1,2 @@
+# FirstHtmlCssWebPage
+That was my first practice webpage, which I was created with the knowledge of 17 hours in HTML And CSS. I challenged myself to learn HTML And CSS in one day. Yeah i completed this challenge and thought that why shouldn't take it in practice, Then so code this webpage. I knew that is not so good but it was very good for that I learned HTML and CSS in one day and code a webpage. That was my first experience in web development.
